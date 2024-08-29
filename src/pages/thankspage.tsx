@@ -27,7 +27,7 @@ export default function ThanksPage() {
         <Image alt="logo" src={logo} quality={100} />
         <TextContent>
           <h1>Parabéns Pela Compra!</h1>
-          <a href="https://divinoflix-xi.vercel.app">ASSISTIR AGORA!</a>
+          <a href="https://divino-flix-plat.vercel.app">ASSISTIR AGORA!</a>
         </TextContent>
       </MainContainer>
     </>
